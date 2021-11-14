@@ -1,4 +1,0 @@
-Updated centroid 0 is:
-Centroid[0] 6.563 7.16957
-Updated centroid 1 is:
-Centroid[1] 6.42986 4.86669

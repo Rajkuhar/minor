@@ -1,1 +1,0 @@
-Centroid[" << i << "] = " << nizx[i] << " " << nizy[i]
